@@ -1,0 +1,11 @@
+numpy
+scipy
+soundfile
+pydub
+ffmpeg
+PyQt5
+Pillow
+pylint
+mypy
+pytest
+pyqtgraph
