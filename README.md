@@ -46,7 +46,7 @@ pip install -r requirements.txt
 pip install -e .
 ```
 
-# Rodar
+# Executar
 
 Abre a interface gráfica
 ```
